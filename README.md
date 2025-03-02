@@ -1,10 +1,10 @@
-# ResourceIQ Career Guidance Chatbot
+# ResourceIQ Career Guidance 
 
-This project is a personalized career guidance chatbot built with Next.js, utilizing the Gemini API for AI powered career advice. It is designed to help students and job-seeking professionals craft tailored resumes, cover letters, and receive interview preparation assistance. The project leverages shadcn UI for its component library, with a sleek black background and silver gradient text design.
+This project is a complete solution for individuals and job seekers where they can build their resume, check indsutry insights, interview preparation and also get realtime reviews on their performance.
 
 ## Features
 
-- **Personalized Career Guidance:** AI-powered chatbot provides tailored career advice.
+- **Personalized Career Guidance:** AI powered chatbot provides tailored career advice.
 - **User Data Collection:** Gathers background information and skills to personalize the experience.
 - **Gemini API Integration:** Communicates with the Gemini API to generate responses strictly related to career and job guidance.
 - **Shadcn UI Components:** Uses shadcn UI components for a modern, clean user interface with a black background and silver gradient text.
